@@ -12,3 +12,4 @@ efparser-test-*
 *.o
 *.obj
 *.lst
+*.lib
