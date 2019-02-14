@@ -1,0 +1,6 @@
+name "aim_efparser_d"
+description "A minimal D application."
+authors "Bradley Chatha"
+copyright "Copyright © 2018, Bradley Chatha"
+license "proprietary"
+targetType "library"
